@@ -14,4 +14,4 @@ I graduated with an MSc in Machine Learning from UCL and hold a BSc in Mathemati
 
 ## Publications
 
-- [Attaining Human`s Desirable Outcomes in Human-AI Interaction via Structural Causal Games]([https://arxiv.org/abs/2402.15259](https://arxiv.org/abs/2405.16588)), preprints
+- [Attaining Human`s Desirable Outcomes in Human-AI Interaction via Structural Causal Games](https://arxiv.org/abs/2405.16588)
