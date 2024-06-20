@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Anjie Liu
+
 
 I graduated with an MSc in Machine Learning from UCL and hold a BSc in Mathematics and Statistics from the University of Warwick. My research interests encompass multi-agent systems, reinforcement learning, causality, and their practical applications.
+
+## Publications
+
+- [Attaining Human`s Desirable Outcomes in Human-AI Interaction via Structural Causal Games]([https://arxiv.org/abs/2402.15259](https://arxiv.org/abs/2405.16588)), preprints
