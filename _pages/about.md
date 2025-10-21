@@ -36,4 +36,4 @@ I view many of the frontier challenges in AI, from multi-agent coordination to t
   <br>*ICML 2024 Workshop on Humans-Algs-Society*
 
 <br>
-* Equal contribution
+\* Equal contribution
