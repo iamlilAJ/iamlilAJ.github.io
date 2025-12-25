@@ -21,7 +21,7 @@ repository               : "iamlilAJ/iamlilAJ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "https://iamlilaj.github.io/profile.jpeg"
   name             : "Anjie Liu"
   pronouns         : # example: "she/her"  
   bio              : ""
