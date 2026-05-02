@@ -16,7 +16,9 @@ I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang. Befo
 - **B.Sc. in Mathematics and Statistics**, University of Warwick, 2019 - 2022
 
 ## Research Interests
-I view many of the frontier challenges in AI, from multi-agent coordination to the capabilities of LLM agents, such as reasoning, through the unified lens of modern decision-making. My research leverages fundamental techniques from machine learning and statistics—including probabilistic methods and graphical models—to formally understand, model, and develop solutions for these complex systems. Specifically, my work aims to move beyond heuristic approaches by designing formal frameworks that enhance the performance, reliability, and predictability of these systems.
+I work on active decision-making in modern AI systems: active information acquisition (what to observe) and active intervention (what to do). The shared challenge—information is incomplete, observations are costly, and not every action is worth taking—shapes most of the problems I find interesting. My recent work approaches these questions through Bayesian experimental design and causal intervention, applied to vision-language models, multi-agent reinforcement learning, and LLM agent reasoning.
+
+I care equally about whether the formalizations translate into systems that work outside the benchmark—where information has real cost, decisions have real consequences, and efficiency is the difference between a method that ships and one that doesn't.
 ## Publications
 
 - **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
