@@ -19,6 +19,10 @@ I am a Ph.D. student in Artificial Intelligence at The Hong Kong University of S
 I view many of the frontier challenges in AI, from multi-agent coordination to the capabilities of LLM agents, such as reasoning, through the unified lens of modern decision-making. My research leverages fundamental techniques from machine learning and statistics—including probabilistic methods and graphical models—to formally understand, model, and develop solutions for these complex systems. Specifically, my work aims to move beyond heuristic approaches by designing formal frameworks that enhance the performance, reliability, and predictability of these systems.
 ## Publications
 
+- **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
+  <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei
+  <br>*ICML 2026*
+
 - **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.17697)** [[Code](https://github.com/iamlilAJ/Pre-Strategy-Intervention)]
   <br>**A. Liu**\*, J. Wang\*, S. Kaski, J. Wang, M. Yang
   <br>*NeurIPS 2025*
