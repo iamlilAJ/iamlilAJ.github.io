@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. Jun Wang.
+I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang. Before this I trained in stats and machine learning at Warwick and UCL.
 
 ## Education
 - **Ph.D. in Artificial Intelligence**, HKUST (Guangzhou), 2024 - Present
