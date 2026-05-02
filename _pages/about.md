@@ -20,7 +20,7 @@ I view many of the frontier challenges in AI, from multi-agent coordination to t
 ## Publications
 
 - **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
-  <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei
+  <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
   <br>*ICML 2026*
 
 - **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.17697)** [[Code](https://github.com/iamlilAJ/Pre-Strategy-Intervention)]
