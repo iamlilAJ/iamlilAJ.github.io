@@ -19,6 +19,8 @@ I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang. Befo
 I work on active decision-making in modern AI systems: active information acquisition (what to observe) and active intervention (what to do). The shared challenge—information is incomplete, observations are costly, and not every action is worth taking—shapes most of the problems I find interesting. My recent work approaches these questions through Bayesian experimental design and causal intervention, applied to vision-language models, multi-agent reinforcement learning, and LLM agent reasoning.
 
 I care equally about whether the formalizations translate into systems that work outside the benchmark—where information has real cost, decisions have real consequences, and efficiency is the difference between a method that ships and one that doesn't.
+
+I'm particularly open to collaboration on real-world applications where information has cost and decisions have consequence—such as finance and clinical decision support—and on technical directions including belief representation, uncertainty handling, and information routing in LLM-based agents.
 ## Publications
 
 - **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
