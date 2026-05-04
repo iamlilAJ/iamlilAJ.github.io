@@ -21,6 +21,8 @@ I work on active decision-making in modern AI systems: active information acquis
 I care equally about whether the formalizations translate into systems that work outside the benchmark—where information has real cost, decisions have real consequences, and efficiency is the difference between a method that ships and one that doesn't.
 
 I'm particularly open to collaboration on real-world applications where information has cost and decisions have consequence—such as finance and clinical decision support—and on technical directions including belief representation, uncertainty handling, and information routing in LLM-based agents.
+
+*Keywords: LLM agents · probabilistic modelling · reinforcement learning · causal inference · Bayesian methods*
 ## Publications
 
 - **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
