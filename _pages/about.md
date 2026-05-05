@@ -25,7 +25,7 @@ I'm particularly open to collaboration on real-world applications where informat
 **Keywords:** *LLM agents · decision theory · reinforcement learning · causal inference · Bayesian methods*
 ## Publications
 
-- **Active Reasoning Vision-Language Models via Sequential Experimental Design** [[Code](https://github.com/iamlilAJ/active-vlm)]
+- **[Active Reasoning Vision-Language Models via Sequential Experimental Design](https://arxiv.org/abs/2605.01345)** [[Code](https://github.com/iamlilAJ/active-vlm)]
   <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
   <br>*ICML 2026*
 
