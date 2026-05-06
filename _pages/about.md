@@ -47,3 +47,8 @@ I'm particularly open to collaboration on real-world applications where informat
 
 <br>
 \* Equal contribution
+
+<br>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fiamlilaj.github.io%2F&label=visitors&countColor=%23263759" alt="visitor count" />
+</div>
