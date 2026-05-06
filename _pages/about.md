@@ -52,7 +52,5 @@ I'm particularly open to collaboration on real-world applications where informat
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fiamlilaj.github.io%2F&label=visitors&countColor=%23263759" alt="visitor count" />
   <br><br>
-  <div style="transform: scale(0.6); transform-origin: top center; height: 200px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9fnzqrmL6M3uF4Rcg1ezzJQiyAZmovppNtoCEKmWfdk"></script>
-  </div>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9fnzqrmL6M3uF4Rcg1ezzJQiyAZmovppNtoCEKmWfdk&cl=ffffff&w=a"></script>
 </div>
