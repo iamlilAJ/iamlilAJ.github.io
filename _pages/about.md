@@ -50,7 +50,5 @@ I'm particularly open to collaboration on real-world applications where informat
 
 <br>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fiamlilaj.github.io%2F&label=visitors&countColor=%23263759" alt="visitor count" />
-  <br><br>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9fnzqrmL6M3uF4Rcg1ezzJQiyAZmovppNtoCEKmWfdk&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9fnzqrmL6M3uF4Rcg1ezzJQiyAZmovppNtoCEKmWfdk&cl=ffffff&w=300"></script>
 </div>
