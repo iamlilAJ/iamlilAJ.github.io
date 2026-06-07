@@ -25,13 +25,13 @@ I'm particularly open to collaboration on real-world applications where informat
 **Keywords:** *LLM agents · decision theory · reinforcement learning · causal inference · Bayesian methods*
 ## Publications
 
-- **[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](https://arxiv.org/abs/2605.01345)** [[Code](https://github.com/iamlilAJ/active-vlm)] [[Slides](/files/active_visual_reasoning_slides.pdf)]
-  <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
-  <br>*ICML 2026*
-
 - **[ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents](https://arxiv.org/abs/2606.03054)**
   <br>**A. Liu**, Y. Song, Z. Chen, Z. Gong, Z. Yu, J. Wang
   <br>*arXiv preprint*
+
+- **[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](https://arxiv.org/abs/2605.01345)** [[Code](https://github.com/iamlilAJ/active-vlm)] [[Slides](/files/active_visual_reasoning_slides.pdf)]
+  <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
+  <br>*ICML 2026*
 
 - **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
   <br>H. Zhou, S. Guo, **A. Liu**, Z. Yu, Z. Gong, B. Zhao, et al., J. Wang
