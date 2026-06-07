@@ -29,6 +29,14 @@ I'm particularly open to collaboration on real-world applications where informat
   <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
   <br>*ICML 2026*
 
+- **[ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents](https://arxiv.org/abs/2606.03054)**
+  <br>**A. Liu**, Y. Song, Z. Chen, Z. Gong, Z. Yu, J. Wang
+  <br>*arXiv preprint*
+
+- **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
+  <br>H. Zhou, S. Guo, **A. Liu**, Z. Yu, Z. Gong, B. Zhao, et al., J. Wang
+  <br>*arXiv preprint*
+
 - **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.17697)** [[Code](https://github.com/iamlilAJ/Pre-Strategy-Intervention)]
   <br>**A. Liu**\*, J. Wang\*, S. Kaski, J. Wang, M. Yang
   <br>*NeurIPS 2025*
