@@ -58,5 +58,5 @@ I'm particularly open to collaboration on real-world applications where informat
 
 <br>
 <div align="center">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9fnzqrmL6M3uF4Rcg1ezzJQiyAZmovppNtoCEKmWfdk&cl=ffffff&w=300"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=lzQc-hKLvTKBMjrM_HoM6F6jXxdrfmOTBk49Wj9zHMo&cl=ffffff&w=300"></script>
 </div>
