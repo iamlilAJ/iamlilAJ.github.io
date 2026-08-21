@@ -27,7 +27,7 @@ I'm particularly open to collaboration on real-world applications where informat
 
 - **[ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents](https://arxiv.org/abs/2606.03054)** [[Code](https://github.com/iamlilAJ/toolgate)]
   <br>**A. Liu**, Y. Song, Z. Chen, Z. Gong, Z. Yu, J. Wang
-  <br>*arXiv preprint*
+  <br>*EMNLP 2026*
 
 - **[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](https://arxiv.org/abs/2605.01345)** [[Code](https://github.com/iamlilAJ/active-vlm)] [[Slides](/files/active_visual_reasoning_slides.pdf)]
   <br>**A. Liu**\*, Z. Gong\*, Y. Song, Y. Chen, X. Liu, H. Lu, K. Zhang, C. Wei, J. Wang
