@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang, with a background in statistics and machine learning from Warwick and UCL. I work at the interface of AI and industry, with a focus on materials and manufacturing.
+I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang, with a background in statistics and machine learning from Warwick and UCL. <span style="color: #3e8296;"><strong>I work at the interface of AI and industry, with a focus on materials and manufacturing.</strong></span>
 
 ## Education
 - **Ph.D. in Artificial Intelligence**, HKUST (Guangzhou), 2024 - Present
