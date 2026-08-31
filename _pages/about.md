@@ -25,6 +25,10 @@ I'm particularly open to collaboration on real-world applications where informat
 **Keywords:** *LLM agents · decision theory · reinforcement learning · causal inference · Bayesian methods*
 ## Publications
 
+- **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)**
+  <br>Z. Yu, Y. Song, X. Yan, **A. Liu**, X. Lu, Y. Chen, et al., J. Wang
+  <br>*arXiv preprint*
+
 - **[ToolGate: Reducing Perceptual Tool Calls in Vision-Language Agents with Pre-Call Gating](https://arxiv.org/abs/2606.03054)** [[Code](https://github.com/iamlilAJ/toolgate)]
   <br>**A. Liu**, Y. Song, Z. Chen, Z. Gong, Z. Yu, J. Wang
   <br>*EMNLP 2026*
