@@ -21,7 +21,7 @@ My focus is on bringing AI into industry—especially materials and manufacturin
 Concretely, I work on process optimization and modeling for manufacturing—predicting film thickness and uniformity, deciding which experiments and measurements are worth running, and controlling processes under uncertainty—together with model-based, open-ended search for materials and molecular discovery. What matters to me is deployment: methods that hold up on real, messy, limited data, run within real constraints, and *ship* rather than just win on a benchmark.
 
 **Recruiting.** I'm currently looking for students and interns to work on industrial AI for materials and manufacturing, and I'm open to industry collaboration. If this sounds like your kind of problem, DM me via [email](mailto:liuanjie51@gmail.com).
-{: .notice--info}
+{: .notice--info style="font-size: 1em !important;"}
 
 **Keywords:** *materials & manufacturing · process optimization · industrial AI · experimental design · scientific discovery · decision-making under uncertainty*
 
