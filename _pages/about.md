@@ -25,7 +25,7 @@ I'm particularly open to collaboration on real-world applications where informat
 **Keywords:** *LLM agents · decision theory · reinforcement learning · causal inference · Bayesian methods*
 ## Publications
 
-- **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)**
+- **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)** [[Code](https://github.com/yzailab/Large-Discovery-Models)]
   <br>Z. Yu, Y. Song, X. Yan, **A. Liu**, X. Lu, Y. Chen, et al., J. Wang
   <br>*arXiv preprint*
 
