@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang. Before this I trained in statistics and machine learning at Warwick and UCL.
+I am a Ph.D. student in AI at HKUST (Guangzhou), advised by Prof. Jun Wang, with a background in statistics and machine learning from Warwick and UCL. I work at the interface of AI and industry, with a focus on materials and manufacturing.
 
 ## Education
 - **Ph.D. in Artificial Intelligence**, HKUST (Guangzhou), 2024 - Present
 - **M.Sc. in Machine Learning**, University College London (UCL), 2022 - 2023
 - **B.Sc. in Mathematics and Statistics**, University of Warwick, 2019 - 2022
 
-## Research Interests
-I work on active decision-making in modern AI systems: active information acquisition (what to observe) and active intervention (what to do). The shared challenge—information is incomplete, observations are costly, and not every action is worth taking—shapes most of the problems I find interesting. My recent work approaches these questions through Bayesian experimental design and causal intervention, applied to vision-language models, multi-agent reinforcement learning, and LLM agent reasoning.
+## Focus
+My focus is on bringing AI into industry—especially materials and manufacturing. I'm drawn to settings where information is genuinely expensive and decisions carry real cost: where an experiment takes days, a measurement is limited or destructive, and a single process choice separates yield from scrap. These are the places where a model has to earn its keep, and where getting the decision right actually moves the outcome.
 
-I care equally about whether the formalizations translate into systems that work outside the benchmark—where information has real cost, decisions have real consequences, and efficiency is the difference between a method that ships and one that doesn't.
+Concretely, I work on process optimization and modeling for manufacturing—predicting film thickness and uniformity, deciding which experiments and measurements are worth running, and controlling processes under uncertainty—together with model-based, open-ended search for materials and molecular discovery. What matters to me is deployment: methods that hold up on real, messy, limited data, run within real constraints, and *ship* rather than just win on a benchmark.
 
-I'm particularly open to collaboration on real-world applications where information has cost and decisions have consequence—such as finance and clinical decision support—and on technical directions including belief representation, uncertainty handling, and information routing in LLM-based agents.
+**Recruiting.** I'm currently looking for students and interns to work on industrial AI for materials and manufacturing, and I'm open to industry collaboration. If this sounds like your kind of problem, DM me via [email](mailto:liuanjie51@gmail.com).
+{: .notice--info}
 
-**Keywords:** *LLM agents · decision theory · reinforcement learning · causal inference · Bayesian methods*
+**Keywords:** *materials & manufacturing · process optimization · industrial AI · experimental design · scientific discovery · decision-making under uncertainty*
+
 ## Publications
 
 - **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)** [[Code](https://github.com/yzailab/Large-Discovery-Models)]
